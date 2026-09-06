@@ -1,0 +1,1 @@
+-- Milepæl 0 bruker Smartcars simulator og oppretter derfor ingen falske bildata.
